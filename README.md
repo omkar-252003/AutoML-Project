@@ -108,10 +108,6 @@ Special thanks to the contributors and open-source community for supporting dist
 
 We welcome contributions! Feel free to submit pull requests, open issues, and suggest improvements.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 🎉 **Happy Coding & Model Training!** 🎉
